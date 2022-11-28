@@ -1,0 +1,15 @@
+D:\Projects\DotNet\CodeNinjaDSA\bin\Debug\net6.0\CodeNinjaDSA.exe
+D:\Projects\DotNet\CodeNinjaDSA\bin\Debug\net6.0\CodeNinjaDSA.deps.json
+D:\Projects\DotNet\CodeNinjaDSA\bin\Debug\net6.0\CodeNinjaDSA.runtimeconfig.json
+D:\Projects\DotNet\CodeNinjaDSA\bin\Debug\net6.0\CodeNinjaDSA.dll
+D:\Projects\DotNet\CodeNinjaDSA\bin\Debug\net6.0\CodeNinjaDSA.pdb
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.csproj.AssemblyReference.cache
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.AssemblyInfoInputs.cache
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.AssemblyInfo.cs
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.dll
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\refint\CodeNinjaDSA.dll
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.pdb
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\CodeNinjaDSA.genruntimeconfig.cache
+D:\Projects\DotNet\CodeNinjaDSA\obj\Debug\net6.0\ref\CodeNinjaDSA.dll
