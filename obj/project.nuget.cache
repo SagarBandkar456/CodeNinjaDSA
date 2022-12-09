@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hohS5LZtpoxnRLf7WiMO4xP1waaeFHLL2y/cHeE4KEnq4uJYoSG8itmmdtQS0NqR79qL/Z+Xy7I1E1ol/vG9YA==",
+  "dgSpecHash": "744+IWsNx3dGlOw7Tvb5krfpvBOC43HppXR11nGoCg1gkyT7+I0gi7hwDDZE+ZnehHJFI5Dh6OUvgGOlMOlvNQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\DotNet\\CodeNinjaDSA\\CodeNinjaDSA.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
