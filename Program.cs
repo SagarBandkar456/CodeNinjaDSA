@@ -34,8 +34,16 @@
         //     Console.Write(res.Pop()+" ");
         // }
 
-        DeleteMiddleRecurssion objDelMidEle=new DeleteMiddleRecurssion();
-        objDelMidEle.DeleteMiddle(s,s.Count());
+        // DeleteMiddleRecurssion objDelMidEle=new DeleteMiddleRecurssion();
+        // objDelMidEle.DeleteMiddle(s,s.Count());
+
+        // while(s.Count>0)
+        // {
+        //     Console.Write(s.Pop()+" ");
+        // }
+
+        ReverseStack objReverse=new ReverseStack();
+        objReverse.StackReverse(s);
 
         while(s.Count>0)
         {
