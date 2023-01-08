@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System.Text;
+
+class Program
 {
     public static void Main(string[] args)
     {
@@ -42,13 +44,18 @@
         //     Console.Write(s.Pop()+" ");
         // }
 
-        ReverseStack objReverse=new ReverseStack();
-        objReverse.StackReverse(s);
+        // ReverseStack objReverse=new ReverseStack();
+        // objReverse.StackReverse(s);
 
-        while(s.Count>0)
-        {
-            Console.Write(s.Pop()+" ");
-        }
+        // while(s.Count>0)
+        // {
+        //     Console.Write(s.Pop()+" ");
+        // }
 
+        // PrintSubset objPrint=new PrintSubset();
+        // objPrint.SolveSubset("abc","");
+
+        GenerateAllPar obj=new GenerateAllPar();
+        obj.Solve(3,3,"");
     }
 }
